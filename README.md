@@ -100,6 +100,11 @@ Each notebook is **self-contained** and can be executed independently.
 
 ## 🔁 Reproducibility Notes
 
+
+This repository provides full code to reproduce the experiments reported in
+"Comparative Efficiency Analysis of Lightweight Transformer Models"
+(arXiv:2601.00444).
+
 - All dataset splits and training runs use a fixed random seed.
 - Results are reported from **single-run evaluations**.
 - The analysis focuses on **relative rankings and consistent trends**, not statistical significance testing.
